@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/trench-coat/static/css/main.410426db.chunk.css",
+    "main.js": "/trench-coat/static/js/main.08c7e679.chunk.js",
+    "main.js.map": "/trench-coat/static/js/main.08c7e679.chunk.js.map",
+    "runtime-main.js": "/trench-coat/static/js/runtime-main.b8c868e7.js",
+    "runtime-main.js.map": "/trench-coat/static/js/runtime-main.b8c868e7.js.map",
+    "static/js/2.ceccff29.chunk.js": "/trench-coat/static/js/2.ceccff29.chunk.js",
+    "static/js/2.ceccff29.chunk.js.map": "/trench-coat/static/js/2.ceccff29.chunk.js.map",
+    "index.html": "/trench-coat/index.html",
+    "precache-manifest.ceee84211358707c3c817de1ee395704.js": "/trench-coat/precache-manifest.ceee84211358707c3c817de1ee395704.js",
+    "service-worker.js": "/trench-coat/service-worker.js",
+    "static/css/main.410426db.chunk.css.map": "/trench-coat/static/css/main.410426db.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c868e7.js",
+    "static/js/2.ceccff29.chunk.js",
+    "static/css/main.410426db.chunk.css",
+    "static/js/main.08c7e679.chunk.js"
+  ]
+}
